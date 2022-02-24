@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Sikuli">
+	<parameter name="propertyFile" value="data.properties" />
+	<test name="SpiceJet" preserve-order="true">
+		<classes>
+			<class name="Scripts.HomePageTest" />
+		</classes>
+	</test>
+</suite>

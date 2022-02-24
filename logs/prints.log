@@ -1,0 +1,4 @@
+14:08:15.455 [main] INFO  SeleniumCore.BrowserInteractions - Element not visible in the pagewith locator: //td[@class=' ui-datepicker-week-end ']//a[text()='29'] Type used:XPATH
+14:08:15.464 [main] INFO  Base.BaseTestSuite - Finished Running Test: flightSearchUI
+14:08:15.464 [main] INFO  Base.BaseTestSuite - Status : Fail
+14:08:15.465 [main] INFO  Base.BaseTestSuite - Finished running suite : HomePageTest

@@ -1,0 +1,7 @@
+14:02:41.694 [main] INFO  Base.BaseTestSuite - Finished Running Test: flightSearchUI
+14:02:41.698 [main] INFO  Base.BaseTestSuite - Status : Fail
+14:02:41.698 [main] INFO  Base.BaseTestSuite - Finished running suite : HomePageTest
+14:07:37.695 [main] INFO  Base.BaseTestSuite - Started running suite :  HomePageTest
+14:07:37.702 [main] INFO  Base.BaseTestSuite - Started Running MethodflightSearchUI
+14:07:37.703 [main] INFO  Scripts.HomePageTest - Home Page
+14:08:03.337 [main] INFO  Scripts.HomePageTest - Flight Search
